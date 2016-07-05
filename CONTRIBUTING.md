@@ -8,7 +8,7 @@ There is a #pre-commit git hook that looks like the following.
 # overwrite README with contributing instruction
 cat CONTRIBUTING.md > README.md
 # echo image names in markdown-rendery format to README
-for file in *.jpg *.png; do 
+for file in */*.jpg */*.png; do 
     echo "![$file]($file)" >> README.md
 done
 ```
