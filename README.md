@@ -15,3 +15,17 @@ for file in *.jpg *.png; do
 done
 ```
 
+![command_sheet.jpg](command_sheet.jpg)
+![html5_cheatsheet.jpg](html5_cheatsheet.jpg)
+![mysqlstatchart_1180.jpg](mysqlstatchart_1180.jpg)
+![original.jpg](original.jpg)
+![CLICheatSheetWallpaper.png](CLICheatSheetWallpaper.png)
+![Tabla_de_colores_ilatela_v1.0.png](Tabla_de_colores_ilatela_v1.0.png)
+![border-vim-cheet-sheet.png](border-vim-cheet-sheet.png)
+![emoji_l1.png](emoji_l1.png)
+![git-cheat-sheet-large-blue.png](git-cheat-sheet-large-blue.png)
+![html5_cheat_sheet_tags.png](html5_cheat_sheet_tags.png)
+![jquery_cheatsheet.png](jquery_cheatsheet.png)
+![material-design-color-chart.png](material-design-color-chart.png)
+![rsz_vim_shortcuts_dark_2560x1600.png](rsz_vim_shortcuts_dark_2560x1600.png)
+![vi-vim-cheat-sheet.png](vi-vim-cheat-sheet.png)
