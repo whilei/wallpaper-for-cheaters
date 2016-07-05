@@ -1,6 +1,4 @@
-There is a #pre-commit git hook that looks like the following. It'll automatically add all the .png/.jpg files in the repo to the README for previewing. 
-
-So all you've got to do to contribute is clone, add a picture, commit twice, and push! 
+There is a #pre-commit git hook that looks like the following. 
 
 ```
 #!/bin/sh
@@ -14,6 +12,10 @@ for file in *.jpg *.png; do
     echo "![$file]($file)" >> README.md
 done
 ```
+
+It'll automatically add all the .png/.jpg files in the repo to the README for previewing. __So all you've got to do to contribute is clone, add a picture, commit twice, and push!__
+
+
 
 ![command_sheet.jpg](command_sheet.jpg)
 ![html5_cheatsheet.jpg](html5_cheatsheet.jpg)
