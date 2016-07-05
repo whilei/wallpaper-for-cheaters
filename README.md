@@ -22,6 +22,8 @@ It'll automatically add all the .png/.jpg files in the repo to the README for pr
 ![mysqlstatchart_1180.jpg](mysqlstatchart_1180.jpg)
 ![original.jpg](original.jpg)
 ![CLICheatSheetWallpaper.png](CLICheatSheetWallpaper.png)
+![Rails Controller tests.png](Rails Controller tests.png)
+![Rails Unit tests.png](Rails Unit tests.png)
 ![Tabla_de_colores_ilatela_v1.0.png](Tabla_de_colores_ilatela_v1.0.png)
 ![border-vim-cheet-sheet.png](border-vim-cheet-sheet.png)
 ![emoji_l1.png](emoji_l1.png)
