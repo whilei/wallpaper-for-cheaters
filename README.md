@@ -8,6 +8,7 @@
 ![design/emoji_l1.png](design/emoji_l1.png)
 ![design/material-design-color-chart.png](design/material-design-color-chart.png)
 ![git/git-cheat-sheet-large-blue.png](git/git-cheat-sheet-large-blue.png)
+![html/HTML5_Canvas_Cheat_Sheet.png](html/HTML5_Canvas_Cheat_Sheet.png)
 ![html/html5_cheat_sheet_tags.png](html/html5_cheat_sheet_tags.png)
 ![js/jquery_cheatsheet.png](js/jquery_cheatsheet.png)
 ![markdown/rmarkdown-cheatsheet-2.0.png](markdown/rmarkdown-cheatsheet-2.0.png)
