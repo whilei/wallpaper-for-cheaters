@@ -20,3 +20,4 @@
 ![vim/rsz_vim_shortcuts_dark_2560x1600.png](vim/rsz_vim_shortcuts_dark_2560x1600.png)
 ![vim/vi-vim-cheat-sheet.png](vim/vi-vim-cheat-sheet.png)
 ![world/us-ammo](https://i.pinimg.com/originals/cf/34/70/cf3470128365c77543edf44d4d99f5cb.jpg)
+![world/garden-cool-weather-crops](https://i.pinimg.com/originals/3e/e6/ca/3ee6ca776caa9ad92889e783bc954731.jpg)
