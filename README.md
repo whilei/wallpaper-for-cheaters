@@ -19,3 +19,4 @@
 ![vim/border-vim-cheet-sheet.png](vim/border-vim-cheet-sheet.png)
 ![vim/rsz_vim_shortcuts_dark_2560x1600.png](vim/rsz_vim_shortcuts_dark_2560x1600.png)
 ![vim/vi-vim-cheat-sheet.png](vim/vi-vim-cheat-sheet.png)
+![world/us-ammo](https://i.pinimg.com/originals/cf/34/70/cf3470128365c77543edf44d4d99f5cb.jpg)
